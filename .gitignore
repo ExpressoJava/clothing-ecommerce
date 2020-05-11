@@ -18,10 +18,6 @@
 .env.test.local
 .env.production.local
 
-/.vscode
-
-yarn.lock
-.eslintcache
 .eslintrc.json
 
 
