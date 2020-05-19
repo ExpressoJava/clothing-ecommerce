@@ -42,4 +42,4 @@ const mapDispatchToProps = (dispatch) => ({
 
 export default connect(null, mapDispatchToProps)(CheckoutItem);
 
-// using UTF-8 : &#10005;
+// using UTF-8 : &#10095;
